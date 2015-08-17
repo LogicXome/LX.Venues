@@ -1,0 +1,165 @@
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\LX.Venues.dll.config
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\LX.Venues.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\LX.Venues.pdb
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Antlr3.Runtime.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\EntityFramework.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\EntityFramework.SqlServer.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Newtonsoft.Json.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Owin.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.Helpers.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.Mvc.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.Optimization.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.Razor.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.WebPages.Deployment.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.WebPages.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.WebPages.Razor.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\WebGrease.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Antlr3.Runtime.pdb
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\EntityFramework.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\EntityFramework.SqlServer.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\Newtonsoft.Json.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.Helpers.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.Mvc.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.Razor.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.WebPages.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.WebPages.Deployment.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.WebPages.Razor.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\bin\System.Web.Optimization.xml
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\obj\Debug\LX.Venues.csprojResolveAssemblyReference.cache
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\obj\Debug\LX.Venues.dll
+c:\Users\Spmoss07\Documents\Visual Studio 2013\Projects\LX.Venues\LX.Venues\obj\Debug\LX.Venues.pdb
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\LX.Venues.dll.config
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\LX.Venues.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\LX.Venues.pdb
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Antlr3.Runtime.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\EntityFramework.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\EntityFramework.SqlServer.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.AspNet.Identity.Core.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.Cookies.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.Facebook.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.Google.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.OAuth.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.Twitter.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Web.Infrastructure.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Newtonsoft.Json.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Owin.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.Helpers.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.Mvc.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.Optimization.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.Razor.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.WebPages.Deployment.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.WebPages.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.WebPages.Razor.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\WebGrease.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Antlr3.Runtime.pdb
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\EntityFramework.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\EntityFramework.SqlServer.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.AspNet.Identity.Core.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.Cookies.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.Facebook.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.Google.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.OAuth.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Microsoft.Owin.Security.Twitter.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\Newtonsoft.Json.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.Helpers.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.Mvc.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.Razor.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.WebPages.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.WebPages.Deployment.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.WebPages.Razor.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\bin\System.Web.Optimization.xml
+C:\LogicXome\LX.Venues\Code\LX.Venues\obj\Debug\LX.Venues.csprojResolveAssemblyReference.cache
+C:\LogicXome\LX.Venues\Code\LX.Venues\obj\Debug\LX.Venues.dll
+C:\LogicXome\LX.Venues\Code\LX.Venues\obj\Debug\LX.Venues.pdb
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\LX.Venues.dll.config
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\LX.Venues.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\LX.Venues.pdb
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Antlr3.Runtime.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\EntityFramework.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\EntityFramework.SqlServer.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.AspNet.Identity.Core.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.Cookies.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.Facebook.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.Google.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.OAuth.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.Twitter.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Web.Infrastructure.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Newtonsoft.Json.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Owin.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.Helpers.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.Mvc.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.Optimization.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.Razor.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.WebPages.Deployment.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.WebPages.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.WebPages.Razor.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\WebGrease.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Antlr3.Runtime.pdb
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\EntityFramework.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\EntityFramework.SqlServer.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.AspNet.Identity.Core.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.Cookies.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.Facebook.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.Google.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.OAuth.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Microsoft.Owin.Security.Twitter.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\Newtonsoft.Json.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.Helpers.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.Mvc.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.Razor.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.WebPages.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.WebPages.Deployment.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.WebPages.Razor.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\bin\System.Web.Optimization.xml
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\obj\Debug\LX.Venues.csprojResolveAssemblyReference.cache
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\obj\Debug\LX.Venues.dll
+C:\LogicXome\LX.Venues\LX-V-Code\LX.Venues\obj\Debug\LX.Venues.pdb
